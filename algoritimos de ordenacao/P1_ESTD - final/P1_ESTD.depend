@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1682548678 source:c:\users\lelox\onedrive\햞ea de trabalho\p1_est2d3\p1_estd\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"arquivo.h"
+
+1682548394 c:\users\lelox\onedrive\햞ea de trabalho\p1_est2d3\p1_estd\arquivo.h
+
+1682548007 source:c:\users\lelox\onedrive\햞ea de trabalho\p1_est2d3\p1_estd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"arquivo.h"
+
+1682548008 source:e:\p1_est2d3\p1_estd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"arquivo.h"
+
+1682548396 e:\p1_est2d3\p1_estd\arquivo.h
+
+1682548008 source:c:\users\lelox\onedrive\햞ea de trabalho\p1_estd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"arquivo.h"
+
+1682548396 c:\users\lelox\onedrive\햞ea de trabalho\p1_estd\arquivo.h
+
+1682548008 source:e:\p1_estd - final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"arquivo.h"
+
+1682548396 e:\p1_estd - final\arquivo.h
+
+1682548738 source:e:\p1_estd - final\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"arquivo.h"
+
+1682548008 source:f:\p1_estd - final\p1_estd - final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"arquivo.h"
+
+1682548396 f:\p1_estd - final\p1_estd - final\arquivo.h
+
+1682728844 source:f:\p1_estd - final\p1_estd - final\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"arquivo.h"
+
+1682728844 source:c:\users\lelox\onedrive\햞ea de trabalho\p1_estd - final\p1_estd - final\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"arquivo.h"
+
+1682548396 c:\users\lelox\onedrive\햞ea de trabalho\p1_estd - final\p1_estd - final\arquivo.h
+
+1682548008 source:c:\users\lelox\onedrive\햞ea de trabalho\p1_estd - final\p1_estd - final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"arquivo.h"
+
+1682728844 source:c:\users\lelox\onedrive\햞ea de trabalho\p1_est2d3\algoritimos de ordenacao\p1_estd - final\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"arquivo.h"
+
+1682548396 c:\users\lelox\onedrive\햞ea de trabalho\p1_est2d3\algoritimos de ordenacao\p1_estd - final\arquivo.h
+
+1682548008 source:c:\users\lelox\onedrive\햞ea de trabalho\p1_est2d3\algoritimos de ordenacao\p1_estd - final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"arquivo.h"
+

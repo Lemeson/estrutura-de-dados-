@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1687625515 source:c:\users\lelox\onedrive\햞ea de trabalho\p1_est2d3\projetofinal2\comparaarvores.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"comparaArvores.h"
+
+1687625236 source:c:\users\lelox\onedrive\햞ea de trabalho\p1_est2d3\projetofinal2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"comparaArvores.h"
+
+1687625843 c:\users\lelox\onedrive\햞ea de trabalho\p1_est2d3\projetofinal2\comparaarvores.h
+
+1687625515 source:c:\users\lelox\onedrive\햞ea de trabalho\p1_est2d3\compracao arvores binarias\comparaarvores.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"comparaArvores.h"
+
+1687625843 c:\users\lelox\onedrive\햞ea de trabalho\p1_est2d3\compracao arvores binarias\comparaarvores.h
+
+1687625236 source:c:\users\lelox\onedrive\햞ea de trabalho\p1_est2d3\compracao arvores binarias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"comparaArvores.h"
+
