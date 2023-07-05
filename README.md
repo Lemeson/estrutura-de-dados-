@@ -1,1 +1,3 @@
-# estrutura-de-dados-2
+# estrutura-de-dados
+
+Anexos algoritimos de ordenação e de comparação de arvores binárias!
